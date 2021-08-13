@@ -1,7 +1,7 @@
-# Optiver-volatility-prediction
-Modelling realised volatility of stocks in a 10 minutes window given previous 10 minutes book and trade data of the stocks.
+# [Optiver-volatility-prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)
+Modelling realised volatility of stocks in a 10 minutes window given previous 10 minutes book and trade data of the stocks. Details can only be released after competition complete due to competition rules.
 
-## Conclusion: LGBM & regression with correlation-aware features works well and achieves CV RMSPE 0.19!
+## Conclusion: LGBM & regression with correlation-aware features works well and achieves CV RMSPE 0.19.
 
 ## Table of contents
 
@@ -53,4 +53,4 @@ Please feel free to reach me at
 
 
 ## Reference
-* []()
+* [Kaggle Optiver Challenge](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)
