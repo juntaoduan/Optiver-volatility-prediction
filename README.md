@@ -15,8 +15,6 @@ Modelling realised volatility of stocks in a 10 minutes window given previous 10
 
 ## General info
 
-The project is meant to compare classical Time Series models, such as ARIMA method with the recently emerged transformer model.
-
 Major steps involved in classical time series analysis were as follow :                                 
 * STEP: 1 - Data Cleaning 
 * STEP: 2 - Transformation, Feature engineering
